@@ -1,0 +1,13 @@
+title: PowerShell Code Documentation
+description: PowerShell scripts, notes and examples
+remote_theme: sighingnow/jekyll-gitbook
+
+toc:
+  enabled: true
+
+syntax_highlighter: rouge
+
+markdown: kramdown
+
+plugins:
+  - jekyll-remote-theme
