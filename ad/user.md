@@ -1,7 +1,7 @@
 
 ---
 
-### `scripts/ad-users.md`
+### `ad/user.md`
 
 ```markdown
 ---
