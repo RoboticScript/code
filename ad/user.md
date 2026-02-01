@@ -1,7 +1,3 @@
----
-
-### `ad/user.md`
-
 ```markdown
 ---
 title: AD User Report
